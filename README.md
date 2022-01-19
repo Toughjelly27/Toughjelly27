@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Akshay
-- 👀 I’m interested in Data analysis
+- 👀 I’m interested in Data analytics
 - 🌱 I’m currently learning Python, SQL, JS, Model deployment and ML Cloud deployment.
 - 💞️ I’m looking to collaborate on data analysis and projects related to AI.
 
